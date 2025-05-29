@@ -31,8 +31,8 @@ SimpleSlate is available as:
 1. **Clone the Repository**
 
 ```bash
-   git clone https://github.com/yottajunaid/simpleslate.git
-   cd simpleslate
+   git clone https://github.com/yottajunaid/SimpleSlate.git
+   cd SimpleSlate
 ````
 
 2. **Install Dependencies**
