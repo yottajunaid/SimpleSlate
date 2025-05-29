@@ -1,3 +1,4 @@
+![SimpleSlate Banner](https://raw.githubusercontent.com/yottajunaid/SimpleSlate/main/screenshots/banner.png)
 
 ---
 ### SimpleSlate - A Lightweight Modern Text Editor
