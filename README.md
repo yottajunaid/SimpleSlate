@@ -50,7 +50,7 @@ SimpleSlate is available as:
 ---
 ### 🪟 For Windows Users (.exe)
 
-1. Download the latest `SimpleSlate.exe` from the [Releases](#) section.
+1. Download the latest `SimpleSlate.exe` from the [Release](https://github.com/yottajunaid/SimpleSlate/releases/tag/v1.0) section.
 2. Install it on your system.
 3. Launch SimpleSlate from your Desktop or Start Menu.
 4. Use it just like Notepad — but with more control and customization.
@@ -58,8 +58,6 @@ SimpleSlate is available as:
 ---
 
 ## 🖼️ Screenshots
-
-> Place your screenshots inside a `screenshots/` folder in the root directory.
 
 | Editor View                 | Font Dialog                      | Background Color Picker           |
 | --------------------------- | -------------------------------- | --------------------------------- |
@@ -120,7 +118,7 @@ Contributions are welcome!
 **Developed by:** \[YOTTAJUNAID]
 GitHub: [@yottajunaid](https://github.com/yottajunaid)
 LinkedIn: [@junaidquadri](https://www.linkedin.com/in/junaid-quadri-084279241/)
-Tools Used: PyQt5, Pycharm, Pyinstaller, Claude.
+* Tools Used: PyQt5, Pycharm, Pyinstaller, Claude.
 
 ---
 
